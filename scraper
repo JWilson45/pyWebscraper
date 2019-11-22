@@ -1,2 +1,0 @@
-import urllib2
-import bs4 as bs
